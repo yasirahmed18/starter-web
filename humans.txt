@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Yasir Ahmed webs.yasir@gmail.com
 
 # THANKS
 
